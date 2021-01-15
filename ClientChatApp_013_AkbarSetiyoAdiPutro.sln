@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientChatApp_013_AkbarSetiyoAdiPutro", "ClientChatApp_013_AkbarSetiyoAdiPutro.csproj", "{C7CC8198-5ECA-43C5-AC10-9D7CE862534C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7CC8198-5ECA-43C5-AC10-9D7CE862534C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CC8198-5ECA-43C5-AC10-9D7CE862534C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CC8198-5ECA-43C5-AC10-9D7CE862534C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CC8198-5ECA-43C5-AC10-9D7CE862534C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D6EBC7-44DA-448E-A67B-2668CC3BF924}
+	EndGlobalSection
+EndGlobal
